@@ -1,5 +1,4 @@
-# goodreads
-Goodreads dataset analysis
+# Goodreads Data Analysis
 
 ## Introduction
 The Global book market is expected to reach $142.33 Billion by the end of 2022. Amazon has been a dominant player in this industry. One of the reasons for this dominance is the insights about bibliophiles that they gather through vital subsidiaries like Goodreads and Audible.
