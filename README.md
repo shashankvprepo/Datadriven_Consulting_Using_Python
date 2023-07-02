@@ -20,14 +20,14 @@ Among the popular genres, what are the best performing books for these genres ra
 
 We will mainly be using 2 datasets to conduct this research.
 
-*Kaggle Dataset:*
+**Kaggle Dataset:**
 The following dataset will be used that contains all the data related to Goodreads books - https://www.kaggle.com/datasets/austinreese/goodreads-books?select=goodreads_books.csv
 The data contains listing of all details of Goodreads book till 2021.
 
-*Audible book dataset:*
+**Audible book dataset:**
 To derive insights about the audio books on audible, we rely on a dataset with extensive collection of titles. The dataset is compiled by Toby Manders, a data science enthusiast and refers to the dataset in one of his blogs. The dataset can be downloaded from the following link: https://drive.google.com/file/d/1btf5Eq6U-GfG3iScpX6lMluCt6SgS45c/view
 
 ## Files
-*Group11_BUDT704_Project_Report.ipynb :* This jupyter file contains the source code of data analysis and also contains the the insights derived.
+**Group11_BUDT704_Project_Report.ipynb :** This jupyter file contains the source code of data analysis and also contains the the insights derived.
 
-*Group11_BUDT704_Project_Report.html :* This html file contains the final executed code, it's output and comprehensive analysis. The report concludes with business recommendations for the Amazon management.
+**Group11_BUDT704_Project_Report.html :** This html file contains the final executed code, it's output and comprehensive analysis. The report concludes with business recommendations for the Amazon management.
